@@ -1,0 +1,67 @@
+HTML
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Iphone</title>
+</head>
+<body>
+    <h1 id="Titulo">Iphone e como tudo começou</h1>
+<hr>
+    <h2 class="H2">História do Iphone</h2>
+    
+    <p>iPhone é uma linha de smartphones desenvolvidos e comercializados pela Apple Inc. É o único smartphone a operar com o sistema operacional móvel iOS. A primeira geração do iPhone foi lançada em 29 de junho de 2007, desde então, a Apple lançou novos modelos anualmente sendo o iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 Mini e iPhone SE (3ª geração) os modelos mais recentes.
+    </p>
+    
+    <p>Anunciado em 9 de janeiro de 2007, o iPhone foi lançado no dia 29 de junho de 2007 nos EUA, em 9 de Novembro de 2007 na Alemanha e no Reino Unido, e em 29 de Novembro na França, por Steve Jobs ex-presidente e fundador da marca Apple Inc. Em 2008 foi lançado no mercado asiático e resto da Europa.No Brasil, a primeira versão do telefone (chamada popularmente de 2G) não foi lançada. Na sua segunda versão, o iPhone 3G, começou a ser vendido no mercado brasileiro, a partir de 26 de setembro de 2008.
+    </p>
+    
+    <p>O iPhone é uma das duas maiores plataformas de smartphones do mundo ao lado do Android. A linha de smartphones foi responsável por gerar grandes lucros para a Apple, tornando-se uma das empresas de capital aberto mais valiosas do mundo. O iPhone de primeira geração foi descrito como uma revolução para a indústria de telefonia móvel e seus modelos posteriores também receberam elogios.
+    </p>
+
+<hr>
+    <h2 class="H2">Iphone XR</h2>
+    
+    <p>iPhone XR (estilizado como iPhone Xr, pronunciado “dez erre”) é um smartphone projetado, desenvolvido e comercializado pela Apple Inc. Ele foi anunciado no dia 12 de setembro de 2018, no Steve Jobs Theater, Apple Park na cidade de Cupertino pelo Senior Vice President, Worldwide Marketing da Apple, Phil Schiller, junto aos iPhone XS e XS Max. O aparelho foi oficialmente lançado em 26 de outubro de 2018
+    
+    </p>
+    
+    <img src="https://a-static.mlcdn.com.br/618x463/iphone-xr-apple-128gb-branco-61-12mp-ios/magazineluiza/155608200/193a8c15a27a683781cd5cbd5b5ca7ff.jpg" width="400" alt="Iphone XR">
+    <img src="https://files.tecnoblog.net/wp-content/uploads/2020/11/iphone-xr-produto-700x700.png" width="400" alt="Preto">
+    <img src="https://i.zst.com.br/thumbs/12/a/1f/-32807882.jpg" width="400" alt="vermelho">
+
+    <h3 class="H3">Especificações</h3>
+
+    <ul>
+        <li>Tela: 6.1 Polegadas</li>
+        <li>Resolução: 828 x 1792</li>
+        <li>Câmera:12 Mp</li>
+        <li>Espessura:8.3 mm</li>
+        <li>Sistema Operacional:iOS 13</li>
+        <li>Peso:194 gramas</li>
+    </ul>
+
+    <h3 class="H3">Compre na loja</h3>
+
+    <a href="https://www.casasbahia.com.br/iphone-xr-apple-64gb-preto-tela-de-6-1-camera-de-12mp-ios-55014843/p/55014843?utm_medium=Cpc&utm_source=GP_PLA&IdSku=55014843&idLojista=10037&tipoLojista=1P&utm_campaign=tele_smart_apple&gclid=CjwKCAjwuYWSBhByEiwAKd_n_jteyenqQ9d9-F-JWkKlDU_vKqjaA2yY-fgNE3AnBc4hj9jKffyT9BoC36AQAvD_BwE">Compre aqui</a>
+    <p>Guilherme Mota e Mateus Soares 12TBTI</p>
+</body>
+</html>
+CSS
+body{
+    background-color: #7DD181;
+    color: #FFFBDB;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#Titulo{
+    background-color: #4B7F52 ;
+}
+.H2{
+    background-color: #96E8BC ;
+}
+.H3{
+    background-color: #7FD1B9 ;
+}
